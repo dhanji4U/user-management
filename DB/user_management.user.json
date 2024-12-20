@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "6765a5c72593a607fdb1a524"
+  },
+  "name": "DD",
+  "email": "mikacudulas@mailinator.com",
+  "password": "eNrfZE/twSV2pY/f980cJQ==",
+  "about_me": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+  "login_status": "Online",
+  "is_active": 1,
+  "is_deleted": 0,
+  "last_login": {
+    "$date": "2024-12-20T12:56:00.000Z"
+  },
+  "created_at": {
+    "$date": "2024-12-20T11:43:43.000Z"
+  },
+  "updated_at": {
+    "$date": "2024-12-20T12:56:58.000Z"
+  },
+  "user_seq_id": 1,
+  "__v": 0,
+  "token": "j5xc87qc5msimpl7p7iaifo9bg5j1ce02lsqzqyouieyb5iabq1rrqb7pykl0ff4"
+},
+{
+  "_id": {
+    "$oid": "6765a601e88f087510b2dd97"
+  },
+  "name": "Pa$$w0rd!",
+  "email": "vizonusa@mailinator.com",
+  "password": "Wq8vGSOvaNC+mTr2IF9H1Q==",
+  "about_me": "Aliquam eu accusamus",
+  "login_status": "Offline",
+  "is_active": 1,
+  "is_deleted": 0,
+  "last_login": {
+    "$date": "2024-12-20T17:14:41.000Z"
+  },
+  "created_at": {
+    "$date": "2024-12-20T11:44:41.000Z"
+  },
+  "updated_at": {
+    "$date": "2024-12-20T11:44:41.000Z"
+  },
+  "user_seq_id": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6765b552cd81b7f883d45987"
+  },
+  "name": "Yvette Donaldson",
+  "email": "kydujy@mailinator.com",
+  "password": "Wq8vGSOvaNC+mTr2IF9H1Q==",
+  "about_me": "Non vitae harum veni",
+  "login_status": "Offline",
+  "is_active": 1,
+  "is_deleted": 0,
+  "last_login": {
+    "$date": "2024-12-20T18:20:02.000Z"
+  },
+  "created_at": {
+    "$date": "2024-12-20T12:50:02.000Z"
+  },
+  "updated_at": {
+    "$date": "2024-12-20T12:50:02.000Z"
+  },
+  "user_seq_id": 3,
+  "__v": 0
+}]

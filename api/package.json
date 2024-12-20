@@ -1,0 +1,34 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "app"
+  ],
+  "author": "dev",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "cryptlib": "^1.0.3",
+    "crypto-js": "^4.2.0",
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "express-session": "^1.18.0",
+    "localizify": "^2.0.0",
+    "moment": "^2.30.1",
+    "mongoose": "^8.4.1",
+    "mongoose-sequence": "^6.0.1",
+    "mysql": "^2.18.1",
+    "node-async-loop": "^1.2.2",
+    "rand-number": "^1.0.4",
+    "rand-token": "^1.0.1",
+    "router": "^1.3.8",
+    "Validator": "^1.1.4",
+    "winston": "^3.13.0"
+  }
+}

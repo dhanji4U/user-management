@@ -1,0 +1,95 @@
+{"level":"info","message":"UserManagement - Project Running on PORT :- 7901","timestamp":"2024-12-20T16:38:08.179Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T16:51:33.405Z"}
+{"level":"error","timestamp":"2024-12-20T16:51:38.100Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T16:52:05.451Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T16:52:06.701Z"}
+{"level":"error","timestamp":"2024-12-20T16:52:10.898Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T16:52:44.823Z"}
+{"level":"error","timestamp":"2024-12-20T16:52:57.055Z"}
+{"level":"error","timestamp":"2024-12-20T16:53:07.341Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T16:57:15.001Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T16:58:17.105Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T16:58:21.406Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T17:09:15.123Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T17:09:21.010Z"}
+{"code":73,"codeName":"InvalidNamespace","errorResponse":{"code":73,"codeName":"InvalidNamespace","errmsg":"Invalid database name: '/user_management'","ok":0},"level":"error","ok":0,"timestamp":"2024-12-20T17:09:49.443Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T17:10:40.394Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T17:11:27.364Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T17:11:35.362Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T17:12:38.284Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T17:12:39.773Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T17:12:45.175Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T17:12:46.702Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T17:12:56.342Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T17:13:07.327Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T17:13:15.031Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T17:14:35.143Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T17:24:27.214Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T17:24:38.327Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T17:24:39.555Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T17:24:50.205Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T17:31:08.678Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T17:31:09.764Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T17:31:12.294Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T17:31:14.790Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T17:32:50.887Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T17:33:02.223Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T17:33:05.660Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T17:37:59.543Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T17:38:02.611Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T17:38:35.669Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T17:38:37.399Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T17:52:19.023Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T17:52:28.187Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T17:52:51.669Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T17:52:54.771Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T17:53:00.102Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T17:53:10.797Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T17:53:13.148Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T17:53:16.241Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T17:53:21.391Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T17:53:22.857Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T17:53:28.834Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T17:53:33.474Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T17:53:34.802Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T17:53:40.137Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T17:53:46.075Z"}
+{"code":"ERR_HTTP_INVALID_STATUS_CODE","level":"error","timestamp":"2024-12-20T17:56:31.924Z"}
+{"code":"ERR_HTTP_INVALID_STATUS_CODE","level":"error","timestamp":"2024-12-20T17:56:31.957Z"}
+{"code":"ERR_HTTP_INVALID_STATUS_CODE","level":"error","timestamp":"2024-12-20T17:56:41.426Z"}
+{"code":"ERR_HTTP_INVALID_STATUS_CODE","level":"error","timestamp":"2024-12-20T17:56:41.486Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T17:58:40.267Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T17:58:46.474Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T17:59:31.116Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T18:04:18.308Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T18:04:21.586Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T18:04:25.814Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T18:04:27.818Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T18:05:00.879Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T18:17:53.514Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T18:21:40.713Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T18:21:45.801Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T18:21:48.332Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T18:22:10.502Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T18:22:20.343Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T18:22:22.557Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T18:22:25.260Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T18:22:26.809Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T18:22:30.902Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T18:22:33.404Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T18:22:36.803Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T18:22:41.767Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T18:22:51.113Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T18:22:55.194Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T18:22:57.132Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T18:23:02.464Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T18:23:03.968Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T18:23:24.192Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T18:23:26.394Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T18:23:31.147Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T18:23:33.573Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T18:23:34.973Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T18:23:36.046Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T18:23:46.382Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T18:23:51.690Z"}
+{"level":"info","message":"UserManagement - Project Running on PORT :- 6501","timestamp":"2024-12-20T18:24:00.735Z"}

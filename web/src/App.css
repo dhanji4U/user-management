@@ -1,0 +1,7 @@
+.authentication .container .row {
+  height: 70vh;
+}
+
+.validation_error {
+  color: red;
+}
