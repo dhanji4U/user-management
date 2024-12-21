@@ -5,7 +5,6 @@ const validationRules = require('../validation_rules');
 
 /*
 ** Function to login
-** 05-06-2024
 */
 const login = async (req, res) => {
 
@@ -21,7 +20,6 @@ const login = async (req, res) => {
 
 /*
 ** Function to login
-** 05-06-2024
 */
 const signup = async (req, res) => {
 
@@ -38,7 +36,6 @@ const signup = async (req, res) => {
 
 /*
 ** Function to get user details
-** 15-06-2024
 */
 const userDetails = async (req, res) => {
 
@@ -57,7 +54,6 @@ const userDetails = async (req, res) => {
 
 /*
 ** Function to edit profile
-** 15-06-2024
 */
 const editProfile = async (req, res) => {
 
@@ -73,7 +69,6 @@ const editProfile = async (req, res) => {
 
 /*
 ** Function to logout
-** 15-06-2024
 */
 const logout = async (req, res) => {
 

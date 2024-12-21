@@ -95,7 +95,6 @@ const authModel = {
 
     /*
     ** Function to signup for users
-    ** 03-01-2024
     */
     async signup(request, result) {
 
@@ -136,7 +135,6 @@ const authModel = {
 
     /*
     ** Function to check login details of users
-    ** 02-06-2024
     */
     async login(request, result) {
 
@@ -184,7 +182,6 @@ const authModel = {
 
     /*
     ** Function to edit profile for users
-    ** 06-06-2024
     */
     async editProfile(request, result) {
 
@@ -232,7 +229,6 @@ const authModel = {
 
     /*
     ** Function to logout for users
-    ** 04-06-2024
     */
     async logout(request, result) {
 
